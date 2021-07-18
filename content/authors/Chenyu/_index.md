@@ -19,17 +19,18 @@ organizations:
 bio: I am Chenyu Yan from Xi'an Jiaotong University. 
 
 interests:
-- Functional/Nano Material
-- Electron Transport Modeling
+- Power System and Transmission
 - Computational Calculation
-- Electrochemistry
-- Power Transmission
+- Energy Storage
 - Machine Learning
-- Dielectrics
+- Dielectrics and Functional Material
 
 education:
   
   courses:
+  - course: Master's Degree in Computer Science
+    Institution: Georgia Institute of Technology
+    year: 2020-present
   - course: Data Scientist
     institution: STATE GRID Corporation in China, PRC
     year: 2019-present
@@ -63,5 +64,4 @@ email: leo-chenyu@foxmail.com
 Welcome to my site! 
 
 I am Chenyu Yan.  I received my master degree in Electrical Engineering from Xi'an Jiaotong University and I am now a data scientist in the SGCC. My primary research interest lies in the electrical material, power transmission, electrochemistry and computational modeling. In my graduate study, I have 17 journal/chapter/conference papers published and participated in the projects funded by Ministry of Science and Technology of the China, the National Natural Science Foundation of China, and China Electric Power Research Institute.
-
 
