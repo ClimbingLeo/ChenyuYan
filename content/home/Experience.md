@@ -18,19 +18,32 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Graduate Student"
+  company = "Georgia Institute of Technology"
+  company_url = "https://www.gatech.edu"
+  location = "Altlanta, USA"
+  date_start = "2020-08-23"
+  date_end = "Present"
+  description = """
+
+  * Machine Learning
+  * Data Science
+    ""
+
+[[experience]]
   title = "Data Scientist"
   company = "STATE GRID Corporation of China"
   company_url = "https://www.sgcc.org/"
   location = "Suzhou, PRC"
   date_start = "2019-08-31"
-  date_end = ""
+  date_end = "2020-08-23"
   description = """
 
   * Data Science and Engineering
   * Power Transmission Research
   * Machine Learning & Deep Learning
 		"""
-[[experience]]
+    [[experience]]
     title = "Vice President"
     company = "WELAND International Education & Consulting Corporation"
     company_url = "http://welandedu.com.cn/"
@@ -43,7 +56,7 @@ date_format = "Jan 2006"
   * Academic Training
   * Organize Model UN conferences
 		"""
-[[experience]]
+    [[experience]]
     title = "Graduate Student"
     company = "Xi'an Jiaotong University"
     company_url = "http://en.xjtu.edu.cn/"
@@ -56,7 +69,7 @@ date_format = "Jan 2006"
   * Functional/Nano Material
   * Microscopic Modeling
 		"""
-[[experience]]
+    [[experience]]
     title = "Undergraduate Student"
     company = "Northwestern Polytechnical University"
     company_url = "http://en.nwpu.edu.cn/"
