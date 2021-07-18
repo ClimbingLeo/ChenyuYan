@@ -11,12 +11,14 @@ superuser: true
 
 # Organizations/Affiliations
 organizations:
+- name: Georgia Institute of Technology
+  url: "https://www.gatech.edu"
 - name: Xi'an Jiaotong University
   url: "http://en.xjtu.edu.cn"
 - name: STATE GRID Corporation of China
   url: "http://www.sgcc.com.cn/ywlm/index.shtml"
 # Short bio (displayed in user profile at end of posts)
-bio: I am Chenyu Yan from Xi'an Jiaotong University. 
+bio: I am Chenyu Yan from Georgia Institute of Technology. 
 
 interests:
 - Power System and Transmission
@@ -47,7 +49,7 @@ social:
   link: files/CV_Chenyu.pdf
 - icon: envelope
   icon_pack: fas
-  link: mailto:leo-chenyu@foxmail.com
+  link: mailto:cyan47@gatech.edu
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Chenyu_Yan4
@@ -63,5 +65,5 @@ email: leo-chenyu@foxmail.com
 
 Welcome to my site! 
 
-I am Chenyu Yan.  I received my master degree in Electrical Engineering from Xi'an Jiaotong University and I am now a data scientist in the SGCC. My primary research interest lies in the electrical material, power transmission, electrochemistry and computational modeling. In my graduate study, I have 17 journal/chapter/conference papers published and participated in the projects funded by Ministry of Science and Technology of the China, the National Natural Science Foundation of China, and China Electric Power Research Institute.
+I am Chenyu Yan.  I am a graduate student at Georgia Institute of Technology. My primary research interest lies in the computational algorithm and calculation, power system and transmission, dielectrics and functional material. In my graduate study, I have over twenty journal/chapter/conference papers published and participated in the projects funded by Ministry of Science and Technology of the China, the National Natural Science Foundation of China, and China Electric Power Research Institute.
 
