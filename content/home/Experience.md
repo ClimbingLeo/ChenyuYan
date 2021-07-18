@@ -29,20 +29,20 @@ date_format = "Jan 2006"
   * Machine Learning
   * Data Science
     ""
-
-[[experience]]
-  title = "Data Scientist"
-  company = "STATE GRID Corporation of China"
-  company_url = "https://www.sgcc.org/"
-  location = "Suzhou, PRC"
-  date_start = "2019-08-31"
-  date_end = "2020-08-23"
-  description = """
-
+    
+    [[experience]]
+      title = "Data Scientist"
+      company = "STATE GRID Corporation of China"
+      company_url = "https://www.sgcc.org/"
+      location = "Suzhou, PRC"
+      date_start = "2019-08-31"
+      date_end = "2020-08-23"
+      description = """
+    
   * Data Science and Engineering
   * Power Transmission Research
   * Machine Learning & Deep Learning
-		"""
+    ""
     [[experience]]
     title = "Vice President"
     company = "WELAND International Education & Consulting Corporation"
@@ -51,11 +51,11 @@ date_format = "Jan 2006"
     date_start = "2015-03-01"
     date_end = "2019-06-01"
     description = """
-    
+
   * Marketing and Communication
   * Academic Training
   * Organize Model UN conferences
-		"""
+    ""
     [[experience]]
     title = "Graduate Student"
     company = "Xi'an Jiaotong University"
@@ -64,11 +64,11 @@ date_format = "Jan 2006"
     date_start = "2016-09-01"
     date_end = "2019-07-01"
     description = """
-    
+
   * Power Transmission
   * Functional/Nano Material
   * Microscopic Modeling
-		"""
+    ""
     [[experience]]
     title = "Undergraduate Student"
     company = "Northwestern Polytechnical University"
@@ -77,10 +77,10 @@ date_format = "Jan 2006"
     date_start = "2012-09-01"
     date_end = "2016-07-01"
     description = """
-    
+
   * Lithium Battery
   * Control Theory
   * Industrial Optimization
-		"""
+      ""
 
 +++
