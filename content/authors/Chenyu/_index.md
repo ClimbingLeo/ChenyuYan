@@ -33,7 +33,7 @@ education:
     year: 2020-present
   - course: Data Scientist
     institution: STATE GRID Corporation in China, PRC
-    year: 2019-present
+    year: 2019-2020
   - course: Master's Degree in Electrical Engineering
     institution: Xi'an Jiaotong University, China
     year: 2016-2019
