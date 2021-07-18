@@ -29,7 +29,7 @@ education:
   
   courses:
   - course: Master's Degree in Computer Science
-    Institution: Georgia Institute of Technology
+    institution: Georgia Institute of Technology
     year: 2020-present
   - course: Data Scientist
     institution: STATE GRID Corporation in China, PRC
